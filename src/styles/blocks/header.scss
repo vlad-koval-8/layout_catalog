@@ -33,6 +33,7 @@
     text-decoration: none;
     text-transform: uppercase;
     color: $link-color;
+    transition: 300ms;
   }
 
   &__nav-link:hover {
